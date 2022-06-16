@@ -1,3 +1,8 @@
 # Random Password Generator
 ## Reason
-atesaasa
+to randomly generate passwords that provide secruity for sensative data
+# Built with 
+CSS
+HTML
+JAVASCRIPT
+# link to website
